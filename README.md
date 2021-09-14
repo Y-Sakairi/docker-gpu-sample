@@ -1,1 +1,1 @@
-# docker-gpu-sample
+Python3.7、TensorFlow1.15環境でGPUが使えるdocker-composeのサンプル
